@@ -1,0 +1,14 @@
+{
+  "name": "tinder1",
+  "version": "1.0.0",
+  "description": "make.fun bounty entry: a one-line dating-profile bio for an AI agent",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx main.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0"
+  }
+}
